@@ -1,0 +1,6 @@
+* Org Editor App
+** TODO Rails
+** TODO Org.js
+** TODO Output?
+-pdf
+*** TODO Model in Sinatra first?
